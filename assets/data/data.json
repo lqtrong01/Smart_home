@@ -1,0 +1,26 @@
+{
+  "smartLights": [
+    {
+      "deviceName": "Smart light 1",
+      "iconPath": "assets/icons/light.png",
+      "isActive": false
+    },
+    {
+      "deviceName": "Smart light 1",
+      "iconPath": "assets/icons/light.png",
+      "isActive": false
+    },
+    {
+      "deviceName": "Smart light 1",
+      "iconPath": "assets/icons/light.png",
+      "isActive": false
+    } 
+  ],
+  "airConditioners": [
+    {
+      "deviceName": "Air Conditioner 1",
+      "iconPath": "assets/icons/air-conditioner.png",
+      "isActive": false
+    }
+  ]
+}
